@@ -2,13 +2,15 @@
 // @name         Youtube Embed Full Screen Renable
 // @namespace    ytfsre
 // @version      0.1
-// @description  Some sites don't let users full screen embeded video.  This will override that behavior.  This requires looking for embeded youtube videos on every site you visit so the permissions are broad.  The code is simple so take a second to double check it has not been altered to mine data.  Requires Greasemonkey/Tampermonkey to be installed.
+// @description  Some sites don't let users full screen embedded video.  This will override that behavior.  This requires looking for embeded youtube videos on every site you visit so the permissions are broad.  The code is simple so take a second to double check it has not been altered to mine data.  Requires Greasemonkey/Tampermonkey to be installed.
 // @author       Raymond Law
 // @include http://*/*
 // @include https://*/*
 // @grant        none
-//               Credits to @adil-malik and @Aristos for updateURLParameter()
-//               https://stackoverflow.com/a/10997390
+//
+// Credits to @adil-malik and @Aristos for updateURLParameter()
+// https://stackoverflow.com/a/10997390
+//
 // ==/UserScript==
 
 function updateURLParameter(url, param, paramVal){
