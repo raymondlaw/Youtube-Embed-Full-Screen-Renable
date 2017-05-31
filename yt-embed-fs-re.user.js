@@ -55,7 +55,8 @@ function updateURLParameter(url, param, paramVal){
     for (var index = 0; index < iframes.length; ++index) {
         if(iframes[index].src.indexOf('youtube.com/embed/') > -1){
              iframes[index].src = updateURLParameter(iframes[index].src, 'fs', 1);
-             iframes[index].setAttribute('allowfullscreen','allowfullscreen');
+             iframes[index].setAttribute('allowFullScreen','allowFullScreen');
+             console.log(iframes[index].src);
         }
     }
 })();
