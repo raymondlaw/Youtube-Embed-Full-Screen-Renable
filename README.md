@@ -1,5 +1,12 @@
 # Youtube-Embed-Full-Screen-Renable
-Some sites don't let users full screen embedded video.  This will override that behavior.  
+Some websites disallow visitors from full screening embedded YouTube video.  This will override that behavior.  
+
+| Before        | After       | 
+|:-------------:|:-------------:|
+| ![alt text][before]      | ![alt text][after] |
+
+[before]: https://user-images.githubusercontent.com/2231426/27022242-12b88b88-4f1b-11e7-9cb6-2cf192481573.png "Before"
+[after]: https://user-images.githubusercontent.com/2231426/27022243-14caadc0-4f1b-11e7-8d0d-18cbb8c2c5fe.png "After"
 
 ## Installation
 Requires Greasemonkey / Tampermonkey
