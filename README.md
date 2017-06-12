@@ -5,8 +5,8 @@ Some websites disallow visitors from full screening embedded YouTube video.  Thi
 |:-------------:|:-------------:|
 | ![alt text][before]      | ![alt text][after] |
 
-[before]: https://user-images.githubusercontent.com/2231426/27022242-12b88b88-4f1b-11e7-9cb6-2cf192481573.png "Before"
-[after]: https://user-images.githubusercontent.com/2231426/27022243-14caadc0-4f1b-11e7-8d0d-18cbb8c2c5fe.png "After"
+[before]: https://user-images.githubusercontent.com/2231426/27022242-12b88b88-4f1b-11e7-9cb6-2cf192481573.png "Full Screen Disabled"
+[after]: https://user-images.githubusercontent.com/2231426/27022243-14caadc0-4f1b-11e7-8d0d-18cbb8c2c5fe.png "Full Screen Enabled"
 
 ## Installation
 Requires Greasemonkey / Tampermonkey
