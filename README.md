@@ -1,4 +1,4 @@
-# Youtube-Embed-Full-Screen-Renable
+# YouTube Embed Full Screen Renable
 Some websites disallow visitors from full screening embedded YouTube video.  This will override that behavior.  
 
 | Before        | After       | 
